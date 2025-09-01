@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Cuyos_Inheritance\Cuyos_SimpleInheritance\Cuyos_SimpleInheritance\bin\Debug\Cuyos_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\Cuyos_Inheritance\Cuyos_SimpleInheritance\Cuyos_SimpleInheritance\bin\Debug\Cuyos_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Cuyos_Inheritance\Cuyos_SimpleInheritance\Cuyos_SimpleInheritance\bin\Debug\Cuyos_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Cuyos_Inheritance\Cuyos_SimpleInheritance\Cuyos_SimpleInheritance\obj\Debug\Cuyos_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Cuyos_Inheritance\Cuyos_SimpleInheritance\Cuyos_SimpleInheritance\obj\Debug\Cuyos_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Cuyos_Inheritance\Cuyos_SimpleInheritance\Cuyos_SimpleInheritance\obj\Debug\Cuyos_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Cuyos_Inheritance\Cuyos_SimpleInheritance\Cuyos_SimpleInheritance\obj\Debug\Cuyos_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Cuyos_Inheritance\Cuyos_SimpleInheritance\Cuyos_SimpleInheritance\obj\Debug\Cuyos_SimpleInheritance.exe.config
